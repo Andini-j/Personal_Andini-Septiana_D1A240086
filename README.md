@@ -24,5 +24,4 @@ Teknologi yang Digunakan
     Frontend : Tailwind CSS, HTML
     Server Side : Apache / XAMPP
 
-Struktur Folder
-![Image](https://github.com/user-attachments/assets/46810abc-be76-4cf2-888a-93be76d762e1)
+ Struktur Folder![Image](https://github.com/user-attachments/assets/46810abc-be76-4cf2-888a-93be76d762e1)
