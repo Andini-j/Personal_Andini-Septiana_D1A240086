@@ -65,3 +65,19 @@ Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampi
 
 ![Image](https://github.com/user-attachments/assets/3db331b6-0f3a-4bea-9089-f6a07e9a2df4)
 ![Image](https://github.com/user-attachments/assets/906594c7-a045-4b0e-b5e9-c79d13c55453)
+
+D. Halaman Kelola Gallery
+
+Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
+
+![Image](https://github.com/user-attachments/assets/2f39b15b-1214-428d-9c69-a0f83454b8dc)
+![Image](https://github.com/user-attachments/assets/e67929a7-a5ee-4ab8-94d9-1490f369d428)
+
+E. Halaman About
+
+Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
+
+![Image](https://github.com/user-attachments/assets/670f172e-0317-424a-960f-aadec2da5e8b)
+![Image](https://github.com/user-attachments/assets/3106854e-c40e-4ba1-8d4d-75e55e2181ae)
+
+
