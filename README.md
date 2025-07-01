@@ -25,5 +25,9 @@ Teknologi yang Digunakan
     Server Side : Apache / XAMPP
 
  Struktur Folder![Image](https://github.com/user-attachments/assets/46810abc-be76-4cf2-888a-93be76d762e1)
+User Interface Halaman Publik
 
+A. Halaman Home / Artikel
+
+Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 ![Image](https://github.com/user-attachments/assets/069fb257-8fd6-49c0-b7ec-28994a8a3bbf)
