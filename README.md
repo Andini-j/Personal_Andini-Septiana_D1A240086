@@ -30,4 +30,11 @@ User Interface Halaman Publik
 A. Halaman Home / Artikel
 
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
+
 ![Image](https://github.com/user-attachments/assets/069fb257-8fd6-49c0-b7ec-28994a8a3bbf)
+
+B. Halaman Gallery
+
+Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
+
+![Image](https://github.com/user-attachments/assets/6fd6a6fa-b66a-4810-809a-f93b57d4fa1e)
